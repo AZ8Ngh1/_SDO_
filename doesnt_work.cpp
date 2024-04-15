@@ -16,9 +16,10 @@ int main()
     int l_three_2 = stoi(l_three_a, 0);
     
     int sum = l_three_1 + l_three_2;
-    cout << sum;
+    cout << sum << endl;
     
     return 0;
+    
 }
 
 
